@@ -4,7 +4,5 @@ In 2019, Apple received backlash on social media after its newly launched Apple 
 
 From a regulatory perspective, financial institutions that operate within the United States are subject to legal regulations prohibiting discrimination on the basis of race, gender, or other protected classes. With the increasing prevalence of automated decision systems in the financial lending space, experts have raised concerns about whether these systems could exacerbate existing inequalities in financial lending.
 
-Although the two concepts are intertwined, algorithmic fairness is not the same concept as anti-discrimination law. An AI system can comply with anti-discrimination laws while exhibiting fairness-related concerns. On the other hand, some fairness interventions may be illegal under anti-discrimination laws. 
-
-:footciteXiang2019legalcompatibility{.interpreted-text role="cts"} discuss the compatibilities and disconnects between anti-discrimination law and algorithmic notions of fairness. This case study focuses on fairness in financial services rather than compliance with financial anti-discrimination regulations.
+Although the two concepts are intertwined, algorithmic fairness is not the same concept as anti-discrimination law. An AI system can comply with anti-discrimination laws while exhibiting fairness-related concerns. On the other hand, some fairness interventions may be illegal under anti-discrimination laws. Xiang and Raji discuss the compatibilities and disconnects between anti-discrimination law and algorithmic notions of fairness. This case study focuses on fairness in financial services rather than compliance with financial anti-discrimination regulations.
 
